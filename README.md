@@ -6,10 +6,6 @@
 
 <img src="https://github.com/garimavirtual1234/awesome_floating_button/blob/main/recording_enumelator.gif" height="400em">
 
-
-
-## Usage
-
 To use this plugin:
 
 In your flutter project add the dependency:
