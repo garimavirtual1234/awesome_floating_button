@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-<img src="https://user-images.githubusercontent.com/44735062/129905710-c5a402f3-bf1d-44aa-87ef-689be3acb55a.gif" height="400em">
+<img src="https://github.com/garimavirtual1234/awesome_floating_button/blob/main/recording_enumelator.gif" height="400em">
 
 
 
