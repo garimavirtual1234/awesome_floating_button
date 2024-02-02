@@ -16,7 +16,7 @@ dependencies:
     awesome_floating_button: ^0.0.1
 ```
 
-## Example
+## Usage
 ```
  AwesomeFloatingButton(
         buttonBgColor: Colors.blue,
